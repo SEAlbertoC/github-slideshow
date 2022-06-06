@@ -1,6 +1,6 @@
 3.	---
 4.	
-5.	layout: slide
+5.	TestCourse
 6.	
 7.	title: "Welcome to our second slide!"
 8.	
@@ -8,4 +8,4 @@
 10.	
 11.	Your text
 12.	
-Use the left arrow to go back!
+13. Use the left arrow to go back!
